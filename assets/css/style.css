@@ -1,0 +1,30 @@
+body {
+    background-image: url("./star-wars-backgrounds-14_856985d9.jpeg");
+    height: 100px;
+    background-position: center top;
+
+}
+
+.card {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 30%;
+    height: 30%;
+    margin: auto;
+}
+
+
+.carta1 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 30%;
+    height: 30%;
+    margin: auto;
+
+}
